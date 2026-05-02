@@ -6,7 +6,7 @@ Transitioning from chemistry to tech, I'm passionate about leveraging machine le
 
 - 🎓 **Master's in Organic Chemistry** from KJ Somaiya College (2023)
 - 💼 Currently seeking **Data Scientist / ML Engineer** roles
-- 📍 Based in **Ratnagiri, Maharashtra, India**
+- 📍 Based in **Mumbai, Maharashtra, India**
 - 🚀 Building projects with Python, ML, and Data Science
 
 ---
